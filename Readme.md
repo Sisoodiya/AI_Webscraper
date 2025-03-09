@@ -68,7 +68,7 @@ Ensure you have Python installed (preferably 3.x) along with the necessary libra
 - Filters out unnecessary elements like `<script>` and `<style>`.
 - Extracts meaningful text data for AI processing.
 
-### 4. AI Processing with LangChain & Llama 3
+### 4. AI Processing with LangChain & mistral
 - Uses an LLM to analyze and structure the extracted data.
 - Accepts user prompts to determine what information to extract.
 - Supports batch processing to handle large webpages.
@@ -89,13 +89,11 @@ Ensure you have Python installed (preferably 3.x) along with the necessary libra
 - Store and visualize extracted data in a database.
 - Implement authentication for restricted websites.
 
-## License
-
 ## Author
-[Abhay Singh Sisoodiya](https://github.com/sisoodiya)
+[Abhay Singh Sisoodiya](https://github.com/sisoodiya) <br>
 Note : This Project is inspired from Tech With Tim's YouTube video on [Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING] (https://www.youtube.com/watch?v=Oo8-nEuDBkk).
+
 ## Contributing
 Feel free to open an issue or submit a pull request to improve this project!
 
 Note: This project utilizes the chromedriver of Version 134.0.6998.45 (Official Build) (arm64)
-```
