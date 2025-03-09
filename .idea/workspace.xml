@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e567c29-6133-4f2c-b24b-e340664a113b" name="Changes" comment="enhance scraping functionality with detailed comments and docstring in scrape.py; minor formatting fix in main.py">
-      <change afterPath="$PROJECT_DIR$/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scraper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrape.py" afterDir="false" />
-    </list>
+    <list default="true" id="8e567c29-6133-4f2c-b24b-e340664a113b" name="Changes" comment="enhance scraping functionality by adding new parsing capabilities and improving content extraction; update README with project details" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +72,7 @@
       <workItem from="1741406494076" duration="2827000" />
       <workItem from="1741482699772" duration="410000" />
       <workItem from="1741483121552" duration="3197000" />
-      <workItem from="1741499763450" duration="6890000" />
+      <workItem from="1741499763450" duration="6921000" />
     </task>
     <task id="LOCAL-00001" summary="initialize AI Web Scraper project with basic structure and dependencies">
       <option name="closed" value="true" />
@@ -106,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741402537250</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="enhance scraping functionality by adding new parsing capabilities and improving content extraction; update README with project details">
+      <option name="closed" value="true" />
+      <created>1741508469828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741508469828</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +116,8 @@
     <MESSAGE value="initialize AI Web Scraper project with basic structure and dependencies" />
     <MESSAGE value="add README.md with project overview, features, installation instructions, and usage guidelines" />
     <MESSAGE value="enhance scraping functionality with detailed comments and docstring in scrape.py; minor formatting fix in main.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="enhance scraping functionality with detailed comments and docstring in scrape.py; minor formatting fix in main.py" />
+    <MESSAGE value="enhance scraping functionality by adding new parsing capabilities and improving content extraction; update README with project details" />
+    <option name="LAST_COMMIT_MESSAGE" value="enhance scraping functionality by adding new parsing capabilities and improving content extraction; update README with project details" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AI_Webscraper$dom.coverage" NAME="dom Coverage Results" MODIFIED="1741500229443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
