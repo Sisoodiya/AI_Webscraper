@@ -1,3 +1,6 @@
+# Description: This file contains the code to scrape a website using
+# selenium and Brightdata.
+
 from selenium.webdriver import Remote, ChromeOptions
 from selenium.webdriver.chromium.remote_connection import ChromiumRemoteConnection
 from selenium.webdriver.common.by import By
