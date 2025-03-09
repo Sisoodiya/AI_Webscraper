@@ -30,13 +30,13 @@ Ensure you have Python installed (preferably 3.x) along with the necessary libra
    ```
 2. **Create and activate a virtual environment**
    ```sh
-   python3 -m venv 
-   source ai-scraper-env/bin/activate  # macOS/Linux
-   ai-scraper-env\Scripts\activate     # Windows
+   python3 -m venv .venv
+   source .venv/bin/activate  # macOS/Linux
+   # .venv\Scripts\activate     # Windows
    ```
 3. **Install dependencies**
    ```sh
-   pip install -r requirements.txt
+   pip install -r Requirements.txt
    ```
 
 ## Usage
@@ -90,11 +90,10 @@ Ensure you have Python installed (preferably 3.x) along with the necessary libra
 - Implement authentication for restricted websites.
 
 ## License
-This project is licensed under the MIT License.
 
 ## Author
 [Abhay Singh Sisoodiya](https://github.com/sisoodiya)
-
+Note : This Project is inspired from Tech With Tim's YouTube video on [Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING] (https://www.youtube.com/watch?v=Oo8-nEuDBkk).
 ## Contributing
 Feel free to open an issue or submit a pull request to improve this project!
 
