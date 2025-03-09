@@ -98,5 +98,5 @@ This project is licensed under the MIT License.
 ## Contributing
 Feel free to open an issue or submit a pull request to improve this project!
 
-Note : This project utilizes the chromedriver of version 13
+Note: This project utilizes the chromedriver of Version 134.0.6998.45 (Official Build) (arm64)
 ```
