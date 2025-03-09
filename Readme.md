@@ -25,7 +25,7 @@ Ensure you have Python installed (preferably 3.x) along with the necessary libra
 ### Setup
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/ai-web-scraper.git
+   git clone https://github.com/sisoodiya/ai-web-scraper.git
    cd ai-web-scraper
    ```
 2. **Create and activate a virtual environment**
@@ -93,7 +93,10 @@ Ensure you have Python installed (preferably 3.x) along with the necessary libra
 This project is licensed under the MIT License.
 
 ## Author
-[Abhay Singh Sisoodiya](https://github.com/yourusername)
+[Abhay Singh Sisoodiya](https://github.com/sisoodiya)
 
 ## Contributing
 Feel free to open an issue or submit a pull request to improve this project!
+
+Note : This project utilizes the chromedriver of version 13
+```
