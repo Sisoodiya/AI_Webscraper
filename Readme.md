@@ -13,7 +13,7 @@ This project demonstrates how to build an AI-powered web scraper using Python. T
 ## Technology Stack
 - **Frontend:** Streamlit (for building the UI)
 - **Web Scraping:** Selenium, BeautifulSoup
-- **AI Integration:** LangChain, Llama 3 (or OpenAI API as an alternative)
+- **AI Integration:** LangChain, mistral (or OpenAI API as an alternative)
 - **Proxy and CAPTCHA Handling:** Bright Data
 - **Virtual Environment Management:** Python venv
 
@@ -25,12 +25,12 @@ Ensure you have Python installed (preferably 3.x) along with the necessary libra
 ### Setup
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/sisoodiya/ai-web-scraper.git
-   cd ai-web-scraper
+   git clone https://github.com/Sisoodiya/AI_Webscraper.git
+   cd AI_Webscraper
    ```
 2. **Create and activate a virtual environment**
    ```sh
-   python3 -m venv ai-scraper-env
+   python3 -m venv 
    source ai-scraper-env/bin/activate  # macOS/Linux
    ai-scraper-env\Scripts\activate     # Windows
    ```
