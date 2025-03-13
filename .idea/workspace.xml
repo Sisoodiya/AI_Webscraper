@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e567c29-6133-4f2c-b24b-e340664a113b" name="Changes" comment="enhance scraping functionality by adding new parsing capabilities and improving content extraction; update README with project details" />
+    <list default="true" id="8e567c29-6133-4f2c-b24b-e340664a113b" name="Changes" comment="enhance scraping functionality by adding new parsing capabilities and improving content extraction; update README with project details">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrape.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Sisoodiya"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sisoodiya&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sisoodiya/AI_Webscraper.git",
-    "accountId": "45fe4cf5-a572-45c0-9330-dc921513a0fd"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sisoodiya/AI_Webscraper.git&quot;,
+    &quot;accountId&quot;: &quot;45fe4cf5-a572-45c0-9330-dc921513a0fd&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -86,6 +89,8 @@
       <workItem from="1741483121552" duration="3197000" />
       <workItem from="1741499763450" duration="6921000" />
       <workItem from="1741509052800" duration="985000" />
+      <workItem from="1741773059677" duration="1483000" />
+      <workItem from="1741789506913" duration="475000" />
     </task>
     <task id="LOCAL-00001" summary="initialize AI Web Scraper project with basic structure and dependencies">
       <option name="closed" value="true" />
