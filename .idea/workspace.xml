@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e567c29-6133-4f2c-b24b-e340664a113b" name="Changes" comment="enhance scraping functionality by adding new parsing capabilities and improving content extraction; update README with project details">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrape.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +91,7 @@
       <workItem from="1741773059677" duration="1483000" />
       <workItem from="1741789506913" duration="475000" />
       <workItem from="1742027824804" duration="1213000" />
+      <workItem from="1743445210887" duration="124000" />
     </task>
     <task id="LOCAL-00001" summary="initialize AI Web Scraper project with basic structure and dependencies">
       <option name="closed" value="true" />
