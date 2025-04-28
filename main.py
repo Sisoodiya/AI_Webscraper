@@ -1,4 +1,8 @@
 import streamlit as st
+
+# Toggle between local and remote scraping by changing the import below:
+# For local Chrome driver: use 'scraper'
+# For Brightdata proxy service: use 'scrape'
 from scrape import (
     scrape_website,
     split_dom_content,

@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 # An HTML parser is a software tool that analyzes HTML code to identify its structure and extract information.
 # It breaks down the HTML into its component parts, such as tags, attributes, and text
 
-AUTH = 'write_your_username_here:write_your_password_here'
+AUTH = 'Enteryourusername:Enteryourpassword'
 SBR_WEBDRIVER = f'https://{AUTH}@brd.superproxy.io:9515'
 
 def scrape_website(website :str) :
