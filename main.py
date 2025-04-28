@@ -4,7 +4,7 @@ import streamlit as st
 # For a local Chrome driver: use 'scraper'
 # For Brightdata proxy service: use 'scrape'
 
-from scrape import (
+from scraper import (
     scrape_website,
     split_dom_content,
     clean_body_content,
