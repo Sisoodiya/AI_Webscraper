@@ -86,14 +86,14 @@ Ensure you have Python installed (preferably 3.x) along with the necessary libra
 ## Future Improvements
 - Implement asynchronous requests for faster scraping.
 - Add support for more AI models (GPT-4, Claude, Gemini, etc.).
-- Store and visualize extracted data in a database.
+- Store and visualise extracted data in a database.
 - Implement authentication for restricted websites.
 
 ## Author
 [Abhay Singh Sisoodiya](https://github.com/sisoodiya) <br>
-Note : This Project is inspired from Tech With Tim's YouTube video on [Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING] (https://www.youtube.com/watch?v=Oo8-nEuDBkk).
+Note: This Project is inspired by Tech With Tim's YouTube video on [Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING] (https://www.youtube.com/watch?v=Oo8-nEuDBkk).
 
 ## Contributing
 Feel free to open an issue or submit a pull request to improve this project!
 
-Note: This project utilizes the chromedriver of Version 134.0.6998.45 (Official Build) (arm64)
+Note: This project utilises the chromedriver of Version 134.0.6998.45 (Official Build) (arm64)
